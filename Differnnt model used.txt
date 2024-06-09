@@ -1,0 +1,11 @@
+SMV : 
+train : 0.5877
+validation : 0.47
+
+Logistic : 
+train : 0.59843
+validation : 0.473333
+
+RandomForest :
+train : 0.4556335121749897
+validation : 0.4
