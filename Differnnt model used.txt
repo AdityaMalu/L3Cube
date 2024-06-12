@@ -3,9 +3,25 @@ train : 0.5877
 validation : 0.47
 
 Logistic : 
-train : 0.59843
-validation : 0.473333
+train : 0.59843 , 0.59
+validation : 0.473333 , 0.53
 
 RandomForest :
-train : 0.4556335121749897
+train : 0.4556335121749897 , 
 validation : 0.4
+
+MLPClassifer :
+train : 0.610813041683863 , 0.57
+error : 0.659
+validation : 0.533333
+error :  0.753333
+
+Decision Tree :
+train : 0.3586463062319439
+validation : 0.33
+
+Gausian NB : 
+train : 0.620305406520842
+error : 0.79
+validation : 0.58
+error : 0.79
